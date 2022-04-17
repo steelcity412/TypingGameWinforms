@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dfd043e6-21ac-4ffa-ac19-624157c1c01f": {
+      "ProjectGuid": "dfd043e6-21ac-4ffa-ac19-624157c1c01f",
+      "DisplayName": "TypingGame",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
